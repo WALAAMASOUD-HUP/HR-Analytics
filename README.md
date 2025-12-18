@@ -1,68 +1,70 @@
 📊 HR Analytics Dashboard
-تحليل شامل لبيانات الموارد البشرية باستخدام Excel
+Comprehensive analysis of Human Resources data using Excel
+
 📌 Overview
-هذا المشروع عبارة عن لوحة تحليلات HR تفاعلية تهدف إلى مساعدة الإدارة في فهم أسباب ترك الموظفين (Attrition) وتحليل العوامل المؤثرة مثل العمر، القسم، نوع الوظيفة، الدرجة التعليمية وغيرها.
-تم تصميم الداشبورد باستخدام Excel بشكل احترافي مع استخدام الرسوم البيانية والمخططات التفاعلية (Slicers).
+This project is an interactive HR Analytics Dashboard designed to help management understand employee attrition and analyze influencing factors such as age, department, job role, education level, and more.
+The dashboard is professionally built in Excel, utilizing charts and interactive visuals (Slicers).
 ![Image](https://github.com/user-attachments/assets/004fb076-3ebf-4247-8fbc-516a885c62fa)
 
-________________________________________
-🎯 Objectives
-•	تحليل عدد الموظفين الكلّي مقابل الموظفين الفعّالين.
-•	قياس معدل الاستنزاف (Attrition Rate).
-•	تحليل الاستنزاف حسب:
-o	المستوى التعليمي
-o	القسم
-o	الفئة العمرية
-o	الوظيفة
-o	الحالة الاجتماعية
-o	النوع (ذكر/أنثى)
-________________________________________
-🗂️ Dataset
-البيانات المستخدمة تشمل:
-•	Employee Count
-•	Attrition
-•	Demographics (Age, Gender, Education)
-•	Job Role
-•	Department
-•	Marital Status
-•	Performance & Rate Metrics
 
-________________________________________
+🎯 Objectives
+• Analyze total employees versus active employees.
+• Measure the Attrition Rate.
+• Analyze attrition based on:
+o Education Level
+o Department
+o Age Group
+o Job Role
+o Marital Status
+o Gender
+
+🗂️ Dataset
+The dataset includes:
+• Employee Count
+• Attrition
+• Demographics (Age, Gender, Education)
+• Job Role
+• Department
+• Marital Status
+• Performance & Rate Metrics
+
 📈 Key Insights
-من أبرز المخرجات التي توضحها لوحة التحليل:
-•	أعلى معدل استنزاف كان في فئة 25-34 سنة.
-•	أعلى عدد حالات ترك للوظيفة كان بين حملة البكالوريوس.
-•	قسم Sales سجّل أعلى معدل Attrition.
-•	بعض الوظائف مثل Research Scientist وHealthcare Representative ظهرت بمعدلات استنزاف ملحوظة.
-•	غالبية حالات الاستنزاف كانت لحالة Single.
-________________________________________
+Some of the main insights from the dashboard include:
+• The highest attrition rate was in the 25–34 age group.
+• The largest number of resignations came from employees with a Bachelor's degree.
+• The Sales department recorded the highest attrition rate.
+• Certain roles, such as Research Scientist and Healthcare Representative, showed notable attrition rates.
+• Most attrition cases were among single employees.
+
 🛠 Tools & Techniques
-•	Microsoft Excel
-o	PivotTables
-o	PivotCharts
-o	Slicers
-o	Conditional Formatting
-o	Data Cleaning & Transformation
-________________________________________
+• Microsoft Excel
+o PivotTables
+o PivotCharts
+o Slicers
+o Conditional Formatting
+o Data Cleaning & Transformation
+
 📌 Dashboard Preview
 https://github.com/user-attachments/assets/da724dc9-4d7d-4855-bf79-8bc5e8f839dd
 
-________________________________________
-🚀 How to Use
-1.	افتح ملف Excel المرفق.
-2.	استخدم الـ Slicers للتحليل التفاعلي حسب:
-o	Education Field
-o	Job Role
-o	Gender
-o	Department
-3.	استكشف العلاقات بين العوامل المختلفة لفهم أسباب الاستنزاف.
 
-________________________________________
+🚀 How to Use
+
+Open the attached Excel file.
+
+Use the Slicers for interactive analysis by:
+o Education Field
+o Job Role
+o Gender
+o Department
+
+Explore the relationships between factors to understand the causes of attrition.
+
 🔍 Future Enhancements
-•	تحويل المشروع إلى Power BI لتحسين التفاعلية.
-•	إضافة خريطة للوظائف حسب الموقع الجغرافي.
-•	استخدام تنبؤ Attrition Prediction عبر Machine Learning.
-________________________________________
+• Convert the project to Power BI for improved interactivity.
+• Add a map to visualize job roles by geographic location.
+• Implement Attrition Prediction using Machine Learning.
+
 🙌 Author
 Walaa A. Hafeez
 Data Analyst
