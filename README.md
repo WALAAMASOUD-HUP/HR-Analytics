@@ -45,8 +45,8 @@ o Conditional Formatting
 o Data Cleaning & Transformation
 
 📌 Dashboard Preview
-https://github.com/user-attachments/assets/da724dc9-4d7d-4855-bf79-8bc5e8f839dd
 
+https://github.com/user-attachments/assets/3ba289fe-2188-4bb9-a3c8-c98219a43af4
 
 🚀 How to Use
 
